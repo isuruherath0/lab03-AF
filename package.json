@@ -1,0 +1,19 @@
+{
+  "name": "lab03-af",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isuruherath0/lab03-AF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isuruherath0/lab03-AF/issues"
+  },
+  "homepage": "https://github.com/isuruherath0/lab03-AF#readme"
+}
